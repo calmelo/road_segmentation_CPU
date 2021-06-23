@@ -23,5 +23,7 @@ git clone https://github.com/calmelo/road_segmentation_CPU
 # Run
 
 . /opt/intel/openvino/bin/setupvars.sh
+
 cd road_segmentation_CPU/scripts
+
 python3 road_segmentation_images.py/road_segmentation_video.py
